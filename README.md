@@ -33,6 +33,8 @@ I have set up a base theme already for you to use in `themes/asap` for this proj
 
 Please commit your changes to the git repository as you go, so we can see the progress you've made incrementally. It's often best to commit when you've completed a chunk of your task.
 
+##### IMPORTANT REMEMBER TO DUMP AND COMMIT YOUR DATABASE TOO BEFORE YOU LEAVE/FINISH
+
 #### Finally!
 
 Please remember, we are just looking for progress, technique and problem solving skills with the emphasis on problem solving. Drupal is a fairly advanced piece of OOS and it's not something you learn in a day.
