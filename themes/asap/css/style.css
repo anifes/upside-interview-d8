@@ -1,3 +1,58 @@
 /**
  * Place your custom styles here.
  */
+
+footer {
+  background-color:  #515a5a;
+}
+
+#block-packagetext {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  color: black;
+}
+
+#block-contenta {
+  position: absolute;
+}
+
+#block-contentb {
+  float: right;
+  text-align: center;
+}
+
+#block-imageblock {
+  position: relative;
+  margin: 0;
+}
+
+#block-footertext {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.navbar {
+  background: rgba(232, 232, 232, 0.8);
+  position: fixed;
+  top: 0;
+  left: 20%;
+  right: 20%;
+  z-index: 10;
+  color: white;
+  font-size: 120%;
+  text-align: center;
+}
+
+nav {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 200%;
+  color: lightgray;
+}
