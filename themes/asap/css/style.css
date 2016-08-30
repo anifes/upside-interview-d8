@@ -1,3 +1,39 @@
 /**
  * Place your custom styles here.
  */
+
+footer {
+  background-color:  #515a5a;
+}
+
+div > p {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+#block-contenta {
+  position: absolute;
+}
+
+#block-contentb {
+  float: right;
+}
+
+.navbar {
+  background: rgba(232, 232, 232, 0.8);
+  position: fixed;
+  top: 0;
+  left: 20%;
+  right: 20%;
+  z-index: 10;
+  color: white;
+  font-size: 120%;
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 200%;
+  color: lightgray;
+}
