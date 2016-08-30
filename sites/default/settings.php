@@ -716,11 +716,11 @@ $settings['container_yamls'][] = __DIR__ . '/services.yml';
 # }
 $databases['default']['default'] = array (
   'database' => 'd8_asap_com',
-  'username' => 'www',
-  'password' => 'St3w4rts',
+  'username' => 'root',
+  'password' => '',
   'prefix' => '',
   'host' => 'localhost',
-  'port' => '',
+  'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );
